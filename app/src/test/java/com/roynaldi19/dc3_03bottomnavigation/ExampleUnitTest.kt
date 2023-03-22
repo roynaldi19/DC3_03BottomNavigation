@@ -1,4 +1,4 @@
-package com.roynaldi19.bfaa03_04bottomnavigation
+package com.roynaldi19.dc3_03bottomnavigation
 
 import org.junit.Test
 

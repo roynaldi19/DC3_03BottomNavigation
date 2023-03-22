@@ -1,4 +1,4 @@
-package com.roynaldi19.bfaa03_04bottomnavigation.ui.notifications
+package com.roynaldi19.dc3_03bottomnavigation.ui.notifications
 
 import androidx.lifecycle.LiveData
 import androidx.lifecycle.MutableLiveData

@@ -1,4 +1,4 @@
-package com.roynaldi19.bfaa03_04bottomnavigation.ui.dashboard
+package com.roynaldi19.dc3_03bottomnavigation.ui.dashboard
 
 import androidx.lifecycle.LiveData
 import androidx.lifecycle.MutableLiveData

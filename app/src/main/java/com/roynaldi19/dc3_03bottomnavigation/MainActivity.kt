@@ -1,4 +1,4 @@
-package com.roynaldi19.bfaa03_04bottomnavigation
+package com.roynaldi19.dc3_03bottomnavigation
 
 import android.os.Bundle
 import com.google.android.material.bottomnavigation.BottomNavigationView
@@ -7,7 +7,7 @@ import androidx.navigation.findNavController
 import androidx.navigation.ui.AppBarConfiguration
 import androidx.navigation.ui.setupActionBarWithNavController
 import androidx.navigation.ui.setupWithNavController
-import com.roynaldi19.bfaa03_04bottomnavigation.databinding.ActivityMainBinding
+import com.roynaldi19.dc3_03bottomnavigation.databinding.ActivityMainBinding
 
 class MainActivity : AppCompatActivity() {
     private lateinit var binding: ActivityMainBinding
